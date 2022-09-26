@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Karim Haroun
 - 👀 I’m interested in Machine Learning
 - 🌱 My expertise in ML encompasses data cleansing and augmentation using Pandas Libraries. I love applying Scikit-learn Models and testing which ones have the best fit. 
-- 💞️ I’m looking to collaborate on projects in python with a focus on data science projects first and interesting algorithms/data structures second.
+- 💞️ I’m looking to collaborate on projects in python with a focus on data science first and interesting algorithms/data structures second.
 - 📫 How to reach me karimharoun@gmail.com
